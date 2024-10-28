@@ -73,7 +73,7 @@ Create the tables and insert data from the following files:
 
 # SQL Exercise 8
 
-- Creating the PARTS table ([Parts insert and create tables](https://github.com/DaStanzel/Unterlagen-Datenbanken-CB/blob/main/%C3%9Cbungen/SQLUebung03/parts.sql))
+- Creating the PARTS table (Parts.sql)
 - Display the whole hierarchy of those parts that make up P3 and P9
 - At which hierarchy level is P12 used in P1
 - How many parts to P1 cost more than $20
@@ -92,7 +92,7 @@ Solve exercise 7 using Joins.
 # Competence Check
 
 ## Tables
-Create the following tables like shown in the [Class Diagram](https://github.com/DaStanzel/Unterlagen-Datenbanken-CB/blob/main/Übungen/Joins/codersbay_ue6.jpg)
+Create the following tables like shown in the Class Diagram
 
 ### Class Diagram
 Table description:
